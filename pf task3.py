@@ -1,0 +1,11 @@
+list=["Hassan","Ali",2]
+print(list)
+print(list[2])
+list.append(3)
+print(list)
+list.remove("Ali")
+print(list)
+list.pop()
+print(list)
+list.pop(0)
+print(list)
