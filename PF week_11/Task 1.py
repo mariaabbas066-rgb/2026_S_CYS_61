@@ -1,0 +1,6 @@
+n = input("Enter Name :")
+a = input("Enter Age :")
+r = input("Enter Roll Number :")
+print("Name : ", n)
+print("Age : ", a)
+print("Roll Number : ", r)
